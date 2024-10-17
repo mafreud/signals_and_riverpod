@@ -1,3 +1,6 @@
 {
-    "dart.flutterSdkPath": "/Users/masahiroaoki/Developer/artisan_app/.fvm/versions/3.24.3"
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit"
+    },
 }
